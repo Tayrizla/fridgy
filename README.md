@@ -7,12 +7,12 @@ Heroku website:
 https://fridgy-2020.herokuapp.com/
 
 Technologies:
-React
-Redux
-Node.Js
-Express JS
-MongoDB
-Mongoose
+* React
+* Redux
+* Node.Js
+* Express JS
+* MongoDB
+* Mongoose
 
 Installing
 
@@ -23,7 +23,7 @@ GOOGLE_APPLICATION_CREDENTIALS=**route to your secret google auth json file**
 
 then write in the folders backend and frontend
 
-npm install
+```npm install```
 
 Running in the both folders
 
