@@ -27,7 +27,7 @@ then write in the folders backend and frontend
 
 Running in the both folders
 
-npm start
+```npm start```
 
 Team
 Imogen Eddings
