@@ -29,8 +29,8 @@ Running in the both folders
 
 ```npm start```
 
-Team
-Imogen Eddings
+### Team:
+[Imogen Eddings](https://github.com/negomi-e)
 Alexey Aleshnikov
 Dmitry Pak
 Konstantin Samolevich
