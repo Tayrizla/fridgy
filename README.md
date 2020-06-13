@@ -13,7 +13,7 @@ Technologies:
 * Express JS
 * MongoDB
 * Mongoose
-
+---
 Installing
 
 after the clone, create the .env file in the backend folder
