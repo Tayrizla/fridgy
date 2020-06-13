@@ -33,6 +33,6 @@ Running in the both folders
 * [Imogen Eddings](https://github.com/negomi-e)
 * Alexey Aleshnikov
 * Dmitry Pak
-* Konstantin Samolevich
+* [Konstantin Samolevich](https://github.com/samolevich)
 
 Future
