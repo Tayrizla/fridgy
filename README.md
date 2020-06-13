@@ -18,7 +18,7 @@ Installing
 
 after the clone, create the .env file in the backend folder
 
-MONGO_URI=**your mongodb URI with username and password**
+MONGO_URI=**your mongodb URI with username and password**  
 GOOGLE_APPLICATION_CREDENTIALS=**route to your secret google auth json file**
 
 then write in the folders backend and frontend
