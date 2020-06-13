@@ -33,8 +33,8 @@ Running in the both folders
 
 ### Team:
 * [Imogen Eddings](https://github.com/negomi-e)
-* Alexey Aleshnikov
-* Dmitry Pak
+* [Alexey Aleshnikov](https://github.com/AV-Aleksey)
+* [Dmitry Pak](https://github.com/pakdmitry88)
 * [Konstantin Samolevich](https://github.com/samolevich)
 
 Future
